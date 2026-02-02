@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building real-world projects in Web Development and Mobile App Development, focusing on scalable, User-centric solutions.<br>Open-source projects, hackathons and innovative tech ideas related to Web Apps, AI-powered solutions and problem-solving platforms.<br>Advanced system design, performance optimization, and contributing effectively to large-scale open-source projects.<br>Data Structures algorithm, backend development and modern frameworks to strengthen full stack development skills.<br>I enjoy converting complex problems into simple, efficient solutions and love building projects under hackathon pressure.
+Building real-world projects in Web Development and Mobile App Development, focusing on scalable, User-centric solutions.Open-source projects, hackathons and innovative tech ideas related to Web Apps, AI-powered solutions and problem-solving platforms.<br>Advanced system design, performance optimization, and contributing effectively to large-scale open-source projects.Data Structures algorithm, backend development and modern frameworks to strengthen full stack development skills.I enjoy converting complex problems into simple, efficient solutions and love building projects under hackathon pressure.
 
 
 ## 🌐 Socials:
