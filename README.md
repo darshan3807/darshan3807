@@ -1,17 +1,148 @@
-# 💫 About Me:
-Building real-world projects in Web Development and Mobile App Development, focusing on scalable, User-centric solutions.Open-source projects, hackathons and innovative tech ideas related to Web Apps, AI-powered solutions and problem-solving platforms.<br>Advanced system design, performance optimization, and contributing effectively to large-scale open-source projects.Data Structures algorithm, backend development and modern frameworks to strengthen full stack development skills.I enjoy converting complex problems into simple, efficient solutions and love building projects under hackathon pressure.
+<div align="center">
 
+# Hi, I'm Darshan Fulpagar 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fulpagar_darshan_3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-fulpagar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshanfulpagar3@gmail.com) 
+### Full-Stack Developer | Mobile App Developer | Problem Solver
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darshan3807&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=darshan3807&theme=blueberry&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan3807&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build scalable, user-focused web and mobile applications using modern technologies.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshan_Fulpagar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/darshan-fulpagar)
+[![Instagram](https://img.shields.io/badge/Instagram-fulpagar__darshan__3-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/fulpagar_darshan_3)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:darshanfulpagar3@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=darshan3807&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 👨‍💻 About Me
+
+* 💻 Building real-world projects in **Web Development** and **Mobile App Development**
+* 🚀 Focused on developing scalable, efficient, and user-centric applications
+* 📱 Working with **Laravel, React, React Native, Expo, Node.js, and MySQL**
+* 🤖 Interested in AI-powered applications, automation, and innovative technology
+* 🧠 Strengthening my knowledge of **Data Structures, Algorithms, Backend Development, and System Design**
+* 🌱 Currently learning advanced system design, performance optimization, and scalable architectures
+* 🤝 Interested in open-source projects, hackathons, and collaborative development
+* ⚡ I enjoy converting complex problems into simple and practical solutions
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript" alt="Programming Languages"/>
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend Technologies"/>
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,php" alt="Backend Technologies"/>
+</p>
+
+### Mobile App Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+</p>
+
+### Databases and Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,gcp,cloudflare" alt="Database and Cloud Technologies"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman" alt="Development Tools"/>
+</p>
+
+---
+
+## 🚀 What I Work On
+
+```text
+🌐 Full-Stack Web Applications
+📱 Cross-Platform Mobile Applications
+🔌 REST API Development and Integration
+🗄️ Database Design and Management
+🔐 Authentication and Authorization Systems
+☁️ Cloud Deployment and Hosting
+🤖 AI-Powered Application Ideas
+🧩 Data Structures and Problem Solving
+```
+
+---
+
+## 🎯 Current Goals
+
+* Build production-ready full-stack applications
+* Improve advanced backend and API development skills
+* Learn scalable system architecture and performance optimization
+* Contribute to meaningful open-source projects
+* Participate in hackathons and collaborative development
+* Strengthen problem-solving through Data Structures and Algorithms
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=darshan3807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Darshan's GitHub Statistics"/>
+
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=darshan3807&theme=tokyonight&hide_border=true" alt="Darshan's GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan3807&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+
+[![Darshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshan3807\&theme=tokyo-night\&hide_border=true)](https://github.com/darshan3807)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+I am open to collaborating on:
+
+* Full-stack web development projects
+* React Native and Expo mobile applications
+* Laravel and REST API projects
+* Open-source contributions
+* Hackathons and innovative technology ideas
+* AI-powered applications and automation solutions
+
+<div align="center">
+
+### Let's connect and build something impactful!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/darshan-fulpagar)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:darshanfulpagar3@gmail.com)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=darshan3807\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+</div>
