@@ -99,15 +99,17 @@ I build scalable, user-focused web and mobile applications using modern technolo
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=darshan3807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Darshan's GitHub Statistics"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=darshan3807&show_icons=true&theme=tokyonight&hide_border=true" alt="Darshan's GitHub Statistics" />
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=darshan3807&theme=tokyonight&hide_border=true" alt="Darshan's GitHub Streak"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=darshan3807&theme=tokyonight&hide_border=true" alt="Darshan's GitHub Streak" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan3807&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=darshan3807&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Darshan's Most Used Languages" />
 
 </div>
 
@@ -117,11 +119,12 @@ I build scalable, user-focused web and mobile applications using modern technolo
 
 <div align="center">
 
-[![Darshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshan3807\&theme=tokyo-night\&hide_border=true)](https://github.com/darshan3807)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=darshan3807&theme=tokyo-night&hide_border=true" alt="Darshan's GitHub Activity Graph" />
 
 </div>
 
 ---
+
 
 ## 🤝 Connect With Me
 
