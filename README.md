@@ -95,36 +95,73 @@ I build scalable, user-focused web and mobile applications using modern technolo
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Work
+
+### 🌸 Sakhi — Women’s Health and Hygiene Platform
+
+A full-stack web and mobile application designed to provide women with healthcare information, period tracking, doctor and yoga trainer directories, educational resources, events, and wellness products.
+
+**Key Features**
+
+* Period cycle tracking and daily health logs
+* Doctor and yoga trainer directories
+* Diseases, yoga, blogs, and home-remedy resources
+* Events and wellness product management
+* Secure user authentication and profile management
+* REST API integration between web and mobile platforms
+
+**Technology Stack**
+
+`Laravel` `PHP` `MySQL` `React Native` `Expo` `REST API` `Firebase`
+
+---
+
+## 🎯 Currently Working On
+
+* Developing production-ready web and mobile applications
+* Building secure and scalable REST APIs
+* Improving backend architecture and database design
+* Learning advanced system design and performance optimization
+* Strengthening Data Structures and Algorithms
+* Exploring AI-powered application development
+* Contributing to open-source projects and hackathons
+
+---
+
+## 💡 Development Approach
+
+```text
+Understand the problem
+        ↓
+Design a simple and scalable solution
+        ↓
+Build clean and maintainable code
+        ↓
+Test real-world use cases
+        ↓
+Optimize performance and user experience
+```
+
+---
+
+## 🤝 Open to Collaboration
+
+I am interested in collaborating on:
+
+* Full-stack web applications
+* React Native and Expo projects
+* Laravel and API development
+* AI-powered solutions
+* Open-source projects
+* Hackathons and innovative technology ideas
 
 <div align="center">
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api?username=darshan3807&show_icons=true&theme=tokyonight&hide_border=true" alt="Darshan's GitHub Statistics" />
-
-<img width="48%" src="https://streak-stats.demolab.com?user=darshan3807&theme=tokyonight&hide_border=true" alt="Darshan's GitHub Streak" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=darshan3807&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Darshan's Most Used Languages" />
+[![Explore My Repositories](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/darshan3807?tab=repositories)
 
 </div>
 
 ---
-
-## 📈 GitHub Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=darshan3807&theme=tokyo-night&hide_border=true" alt="Darshan's GitHub Activity Graph" />
-
-</div>
-
----
-
 
 ## 🤝 Connect With Me
 
